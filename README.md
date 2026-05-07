@@ -11,7 +11,7 @@ Built with Node.js, Express, NLP pipelines, and PDF parsing.
 🔗 Add your deployed Render link here:
 
 ```text
-[https://your-render-link.onrender.com](https://lexai-qikt.onrender.com)
+https://lexai-qikt.onrender.com
 ```
 
 ---
